@@ -1,0 +1,9 @@
+{
+  "user": {"username": "standard_user", "password": "secret_sauce"},
+  "product": {"slug": "sauce-labs-backpack", "name": "Sauce Labs Backpack"},
+  "customer": {"first_name": "Ada", "last_name": "Lovelace", "postal_code": "12345"},
+  "expected": {
+    "total": "Total: $32.39",
+    "confirmation": "Your order has been dispatched, and will arrive just as fast as the pony can get there!"
+  }
+}
